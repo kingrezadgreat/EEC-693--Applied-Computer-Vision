@@ -1,0 +1,24 @@
+﻿<Window x:Class="Lecture5_GUI_save_image.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture5_GUI_save_image"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="WindowLoaded" Closing="WindowClosing">
+    <Grid>
+        <Button x:Name="Increase" Content="Increase" HorizontalAlignment="Left" Margin="583,215,0,0" VerticalAlignment="Top" Width="75" Click="IncrementAngle"/>
+        <Button x:Name="Decrease" Content="Decrease" HorizontalAlignment="Left" Margin="676,215,0,0" VerticalAlignment="Top" Width="75" Click="DecrementAngle"/>
+        <Label Content="Elevation Angle" HorizontalAlignment="Left" Margin="360,213,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="AngleBox" HorizontalAlignment="Left" Margin="481,218,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Label Content="Frame Rate" HorizontalAlignment="Left" Margin="360,176,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="481,184,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Label Content="Video Format" HorizontalAlignment="Left" Margin="360,136,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="normalresolution" Content="rgb.fps30" HorizontalAlignment="Left" Margin="531,118,0,0" VerticalAlignment="Top" Checked="ChangeToNormalResolution"/>
+        <CheckBox x:Name="highresolution" Content="rgb.fps12" HorizontalAlignment="Left" Margin="531,139,0,0" VerticalAlignment="Top" Checked="ChangeToHighResolution"/>
+        <CheckBox x:Name="checkBox1" Content="save periodically " HorizontalAlignment="Left" Margin="531,263,0,0" VerticalAlignment="Top" Unchecked="PeriodicSavingChanged"/>
+        <Button x:Name="Increase_Copy" Content="Save Image" HorizontalAlignment="Left" Margin="558,301,0,0" VerticalAlignment="Top" Width="75" Click="SaveImage1"/>
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="185" Margin="121,118,0,0" VerticalAlignment="Top" Width="217"/>
+
+    </Grid>
+</Window>
