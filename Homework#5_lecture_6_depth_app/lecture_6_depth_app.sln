@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lecture_6_depth_app", "lecture_6_depth_app\lecture_6_depth_app.csproj", "{3DC1BB78-7649-40EC-B7E4-F03FA1AEC0C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC1BB78-7649-40EC-B7E4-F03FA1AEC0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC1BB78-7649-40EC-B7E4-F03FA1AEC0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC1BB78-7649-40EC-B7E4-F03FA1AEC0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC1BB78-7649-40EC-B7E4-F03FA1AEC0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C8ACE10-9623-47FE-8B5F-B4C9E84A17B0}
+	EndGlobalSection
+EndGlobal
