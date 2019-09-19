@@ -1,0 +1,36 @@
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\bin\Debug\lecture_11_rule_based.exe.config
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\bin\Debug\lecture_11_rule_based.exe
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\bin\Debug\lecture_11_rule_based.pdb
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\bin\Debug\Microsoft.Kinect.dll
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\bin\Debug\Microsoft.Kinect.xml
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.csprojAssemblyReference.cache
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\MainWindow.g.cs
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\App.g.cs
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based_MarkupCompile.cache
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based_MarkupCompile.lref
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\MainWindow.baml
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.g.resources
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.Properties.Resources.resources
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.csproj.GenerateResource.cache
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.csproj.CoreCompileInputs.cache
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.csproj.CopyComplete
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.exe
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based\lecture_11_rule_based\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.pdb
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\bin\Debug\lecture_11_rule_based.exe.config
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\bin\Debug\lecture_11_rule_based.exe
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\bin\Debug\lecture_11_rule_based.pdb
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\bin\Debug\Microsoft.Kinect.dll
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\bin\Debug\Microsoft.Kinect.xml
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.csprojAssemblyReference.cache
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\MainWindow.g.cs
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\App.g.cs
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based_MarkupCompile.cache
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based_MarkupCompile.lref
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\MainWindow.baml
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.g.resources
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.Properties.Resources.resources
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.csproj.GenerateResource.cache
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.csproj.CoreCompileInputs.cache
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.csproj.CopyComplete
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.exe
+D:\Personal Cloud\Dropbox\Academia\EEC 693 -Applied Computer Vision\Repo\lecture_11_rule_based - Challenge Task#6\lecture_11_rule_based\obj\Debug\lecture_11_rule_based.pdb
