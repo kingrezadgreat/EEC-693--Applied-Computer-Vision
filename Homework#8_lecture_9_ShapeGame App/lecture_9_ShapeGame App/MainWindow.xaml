@@ -1,0 +1,17 @@
+﻿<Window x:Class="lecture_9_ShapeGame_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lecture_9_ShapeGame_App"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"  Loaded="WindowLoaded" Closing="WindowClosing">
+    <Grid>
+        <Canvas x:Name="canvas1" HorizontalAlignment="Left" Height="224" Margin="102,88,0,0" VerticalAlignment="Top" Width="280">
+            <Ellipse Fill="#FFF4F4F5" Height="58" Canvas.Left="187" Stroke="Black" Canvas.Top="133" Width="60"/>
+        </Canvas>
+        <Image HorizontalAlignment="Left" Height="100" Margin="641,39,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="663,312,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
