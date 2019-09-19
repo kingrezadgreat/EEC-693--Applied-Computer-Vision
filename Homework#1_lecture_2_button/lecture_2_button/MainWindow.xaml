@@ -1,0 +1,20 @@
+﻿<Window x:Class="lecture_2_button.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lecture_2_button"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="WindowLoaded" Closing="WindowClosing">
+    <Grid Margin="0,0,-0.4,0">
+        <Button x:Name="Increase" Content="Increase" HorizontalAlignment="Left" Margin="488,240,0,0" VerticalAlignment="Top" Width="84" Click="Increase_Click" RenderTransformOrigin="2.473,4.084" Height="21"/>
+        <Button x:Name="Decrease" Content="Decrease" HorizontalAlignment="Left" Margin="592,240,0,0" VerticalAlignment="Top" Width="82" Height="21" Click="Decrease_Click"/>
+        <Label Content="Sensor Angle" HorizontalAlignment="Left" Margin="66,243,0,0" VerticalAlignment="Top" Width="157" RenderTransformOrigin="0.156,-1.058"/>
+        <Label Content="Connection ID" HorizontalAlignment="Left" Margin="66,151,0,0" VerticalAlignment="Top" Width="157" RenderTransformOrigin="0.156,-1.058"/>
+        <Label Content="Status" HorizontalAlignment="Left" Margin="66,195,0,0" VerticalAlignment="Top" Width="157" RenderTransformOrigin="0.156,-1.058"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="228,205,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="228,250,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="228,157,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
